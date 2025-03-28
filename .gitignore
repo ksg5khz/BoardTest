@@ -1,4 +1,5 @@
 *.properties
-*.lock
-.gradle/
+*..gradle/
+.gradle/caches/
+.gradle/caches/**/*.lock
 
