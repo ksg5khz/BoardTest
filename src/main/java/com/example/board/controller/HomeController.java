@@ -8,7 +8,7 @@ public class HomeController {
 	
 	@GetMapping("/") // 현재 경로로 접근
 	public String index() {
-		return "index";	// dddd
+		return "index";	// wwww
 	}
 	
 	public String a() {
